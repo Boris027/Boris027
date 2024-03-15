@@ -11,6 +11,6 @@ Wenas 👻👻👻👻
 
 - Algunos de mis proyectos mas chulos relacionados con las páginas web son estos:
 
-Una Página web sobre una de mis series favoritas actualmente "The Boys"
+Una Página web sobre una de mis series favoritas actualmente "The Boys"<br>
 🢂<a href="https://boris027.github.io/ProyectoLibreBootstrap/Index.html">  Acceso a la página  </a>🢀
 ![Captura](https://github.com/Boris027/Boris027/assets/145535733/581f646d-9d18-4bfe-b314-cbf176801502)
