@@ -14,3 +14,11 @@ Wenas 👻👻👻👻
 Una Página web sobre una de mis series favoritas actualmente "The Boys"<br>
 🢂<a href="https://boris027.github.io/ProyectoLibreBootstrap/Index.html">  Acceso a la página  </a>🢀<br>
 ![Captura](https://github.com/Boris027/Boris027/assets/145535733/581f646d-9d18-4bfe-b314-cbf176801502)
+
+
+Languages/Frameworks I'm learning:
+Python HTML 5 CSS 3 PHP Java
+
+
+Environments I work with:
+Java GitHub Vs code
