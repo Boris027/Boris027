@@ -11,7 +11,7 @@ Mi editor de Cookies de Código abierto<br>
 🢂<a href="https://github.com/Boris027/Cookie-Editor-Plus">  Acceso a la página  </a>🢀<br>
 🢂<a href="https://chromewebstore.google.com/detail/cookie-editor+/khddlenmblklhbldjplhiihnkkmnnfjj?hl=es">  Acceso desde la google chrome store  </a>🢀<br>
 
-CryptoWizzard
+CryptoWizzard<br>
 🢂<a href="https://cryptowizzardtfg.netlify.app">  Acceso a la página  </a>🢀<br>
 
 
