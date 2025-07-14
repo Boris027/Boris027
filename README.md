@@ -14,11 +14,9 @@ Welcome to my profile! I'm a self-taught developer passionate about technology, 
 ---
 
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
-### Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=angular,react,javascript,typescript,html,css,scss,bootstrap,nodejs,java,kotlin,spring,python,androidstudio,sqlite,firebase,postman,git,github,linux,arch" width="600" />
+<img src="https://skillicons.dev/icons?i=angular,react,rxjs,javascript,typescript,html,css,scss,bootstrap,nodejs,java,kotlin,spring,python,androidstudio,mysql,firebase,postman,git,github,bash,powershell,figma,notion,linux,arch" width="100%" />
 
 ---
 
