@@ -29,7 +29,7 @@ An open-source cookie editor with a simple interface and advanced features.
     <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a><br>
   <a href="https://chromewebstore.google.com/detail/cookie-editor+/khddlenmblklhbldjplhiihnkkmnnfjj?hl=es" target="_blank">
-    <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Available-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Web Store" />
+    <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Available-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Web Store" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@ A web app for tracking and analyzing cryptocurrencies, with real-time visualizat
 
 <p>
   <a href="https://cryptowizzardtfg.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-App-0A66C2?style=for-the-badge&logo=netlify" alt="Visit App" />
+    <img src="https://img.shields.io/badge/Visit-CryptoWizzard-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit App" />
   </a>
 </p>
 
