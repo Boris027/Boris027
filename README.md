@@ -1,38 +1,47 @@
-# 👋 ¡Hola! Soy Boris
+# 👋 Hi! I'm Boris
 
-¡Bienvenido a mi perfil! Soy un desarrollador autodidacta apasionado por la tecnología, el aprendizaje continuo y la creación de proyectos útiles y creativos.  
-
----
-
-### 🚀 Sobre mí
-
-- 😎 Me llamo **Boris**
-- 📚 Actualmente **me estoy autoformando** en desarrollo web y software
-- 💡 Me encanta construir herramientas que resuelvan problemas reales
-- 🛠️ En constante evolución y abierto a colaborar en proyectos interesantes
+Welcome to my profile! I'm a self-taught developer passionate about technology, continuous learning, and building useful and creative projects.
 
 ---
 
-### 🧠 Algunos de mis proyectos destacados
+### 🚀 About Me
+
+- 😎 My name is **Boris**
+- 📚 Currently **self-learning** web and software development
+- 💡 I love building tools that solve real-world problems
+- 🛠️ Constantly evolving and open to collaborating on interesting projects
+
+---
+
+
+## 🛠️ Technologies & Tools
+
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=angular,react,javascript,typescript,html,css,scss,bootstrap,nodejs,java,kotlin,spring,python,androidstudio,sqlite,firebase,postman,git,github,linux,arch" width="600" />
+
+---
+
+### 🧠 Some of My Highlighted Projects
 
 #### 🍪 Cookie Editor Plus
-Editor de cookies de código abierto, con una interfaz sencilla y funcionalidades avanzadas.  
-🔗 [Ver en GitHub](https://github.com/Boris027/Cookie-Editor-Plus)  
-🌐 [Disponible en Chrome Web Store](https://chromewebstore.google.com/detail/cookie-editor+/khddlenmblklhbldjplhiihnkkmnnfjj?hl=es)
+An open-source cookie editor with a simple interface and advanced features.  
+🔗 [View on GitHub](https://github.com/Boris027/Cookie-Editor-Plus)  
+🌐 [Available on Chrome Web Store](https://chromewebstore.google.com/detail/cookie-editor+/khddlenmblklhbldjplhiihnkkmnnfjj?hl=es)
 
 ---
 
 #### 🔮 CryptoWizzard
-Una aplicación web para el seguimiento y análisis de criptomonedas, con visualizaciones en tiempo real.  
-🌐 [Acceder a la app](https://cryptowizzardtfg.netlify.app)
+A web app for tracking and analyzing cryptocurrencies, with real-time visualizations.  
+🌐 [Go to the App](https://cryptowizzardtfg.netlify.app)
 
 ---
 
-### 📫 ¿Quieres ponerte en contacto?
+### 📫 Want to Get in Touch?
 
-Puedes escribirme a: *borisgallegorios05@gmail.com*  
-O encontrarme en [LinkedIn](https://www.linkedin.com/in/bgallegorios/)
+Feel free to email me at: *borisgallegorios05@gmail.com*  
+Or find me on [LinkedIn](https://www.linkedin.com/in/bgallegorios/)
 
 ---
 
-Gracias por pasarte por aquí 👻👻👻👻  
+Thanks for stopping by 👻👻👻👻
