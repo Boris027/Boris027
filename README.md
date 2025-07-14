@@ -15,8 +15,48 @@ Welcome to my profile! I'm a self-taught developer passionate about technology, 
 
 
 ### 🛠️ Technologies & Tools
+<div style="display: flex; flex-wrap: wrap; width: 100%; justify-content: center; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=angular" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=rxjs" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=scss" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="58px" height="58px"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase"width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=powershell" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=notion" width="58px" height="58px"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode"width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=arch" width="58px" height="58px" />&nbsp;
+  
+</div>
 
-<img src="https://skillicons.dev/icons?i=angular,react,rxjs,javascript,typescript,html,css,scss,bootstrap,nodejs,java,kotlin,spring,python,flask,androidstudio,mysql,firebase,postman,git,github,bash,powershell,figma,notion,vscode,linux,arch" width="100%" />
+---
+
+### 🧰 I also have experience with
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d6147e49-06ba-493a-b87c-f8f745c05555" width="80%" alt="PowerPlatform" />
+  <p style="font-size: 14px; color: #666; margin-top: 8px;">
+  ⚡ Power Platform &nbsp;&bull;&nbsp; Low-code solutions for modern apps
+  </p>
+</div>
+
 
 ---
 
