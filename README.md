@@ -48,7 +48,7 @@ Welcome to my profile! I'm a self-taught developer passionate about technology, 
 
 ---
 
-### 🧰 I also have experience in some proyects with
+### 🧰 I also have experience in some projects with
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d6147e49-06ba-493a-b87c-f8f745c05555" width="80%" alt="PowerPlatform" />
