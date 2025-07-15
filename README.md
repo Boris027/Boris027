@@ -61,21 +61,8 @@ Welcome to my profile! I'm a self-taught developer passionate about technology, 
 ---
 
 ### 💻 Projects
-#### 🍪 Cookie Editor Plus
-An open-source cookie editor with a simple interface and advanced features.
 
-<p style="display:flex">
-  <a href="https://chromewebstore.google.com/detail/cookie-editor+/khddlenmblklhbldjplhiihnkkmnnfjj?hl=es" target="_blank">
-    <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Available-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Web Store" />
-  </a><br>
-  <a href="https://github.com/Boris027/Cookie-Editor-Plus" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
-
-#
-
-#### 🔮 CryptoWizzard Angular+Ionic
+#### 🔮 CryptoWizzard (Angular+Ionic)
 A web app for tracking and analyzing cryptocurrencies, with real-time visualizations.
 
 <p style="display:flex;">
@@ -94,6 +81,33 @@ API that uses Python and Flask, this API is used by the admins to export the all
     <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a><br>
 </p>
+
+#
+
+#### 🔮 CryptoWizzard (Android)
+
+An Android app for tracking and analyzing cryptocurrencies, with real-time visualizations.
+
+<p style="display:flex;">
+  <a href="https://github.com/Boris027/CryptoWizzard--Android--TFG" target="_blank">
+      <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+#
+
+#### 🍪 Cookie Editor Plus
+An open-source cookie editor with a simple interface and advanced features.
+
+<p style="display:flex">
+  <a href="https://chromewebstore.google.com/detail/cookie-editor+/khddlenmblklhbldjplhiihnkkmnnfjj?hl=es" target="_blank">
+    <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Available-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Web Store" />
+  </a><br>
+  <a href="https://github.com/Boris027/Cookie-Editor-Plus" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
 
 ---
 
