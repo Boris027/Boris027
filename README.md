@@ -65,22 +65,25 @@ Welcome to my profile! I'm a self-taught developer passionate about technology, 
 An open-source cookie editor with a simple interface and advanced features.
 
 <p style="display:flex">
-  <a href="https://github.com/Boris027/Cookie-Editor-Plus" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a><br>
   <a href="https://chromewebstore.google.com/detail/cookie-editor+/khddlenmblklhbldjplhiihnkkmnnfjj?hl=es" target="_blank">
     <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Available-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Web Store" />
+  </a><br>
+  <a href="https://github.com/Boris027/Cookie-Editor-Plus" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
 #
 
-#### 🔮 CryptoWizzard
+#### 🔮 CryptoWizzard Angular+Ionic
 A web app for tracking and analyzing cryptocurrencies, with real-time visualizations.
 
-<p>
+<p style="display:flex;>
   <a href="https://cryptowizzardtfg.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit-CryptoWizzard-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit App" />
+  </a><br>
+  <a href="https://github.com/Boris027/CryptoWizzard--Ionic--TFG" target="_blank">
+      <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
