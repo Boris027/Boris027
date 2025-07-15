@@ -60,7 +60,7 @@ Welcome to my profile! I'm a self-taught developer passionate about technology, 
 
 ---
 
-### 💻 Proyects
+### 💻 Projects
 #### 🍪 Cookie Editor Plus
 An open-source cookie editor with a simple interface and advanced features.
 
