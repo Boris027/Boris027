@@ -62,7 +62,7 @@ Welcome to my profile! I'm a self-taught developer passionate about technology, 
 
 ### 💻 Projects
 
-#### 🔮 CryptoWizzard (Angular+Ionic)
+#### 🧙‍♂️ CryptoWizzard (Angular+Ionic)
 A web app for tracking and analyzing cryptocurrencies, with real-time visualizations.
 
 <p style="display:flex;">
