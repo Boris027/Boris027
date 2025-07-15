@@ -84,6 +84,14 @@ A web app for tracking and analyzing cryptocurrencies, with real-time visualizat
   </a>
 </p>
 
+API that uses Python and Flask, this API is used by the admins to export the all the info of the current users of the App.
+
+<p style="display:flex">
+  <a href="https://github.com/Boris027/CryptoWizzard-TFG" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a><br>
+</p>
+
 ---
 
 ### 📫 Contact
