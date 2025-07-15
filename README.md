@@ -78,7 +78,7 @@ An open-source cookie editor with a simple interface and advanced features.
 #### 🔮 CryptoWizzard Angular+Ionic
 A web app for tracking and analyzing cryptocurrencies, with real-time visualizations.
 
-<p style="display:flex;>
+<p style="display:flex;">
   <a href="https://cryptowizzardtfg.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit-CryptoWizzard-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit App" />
   </a><br>
