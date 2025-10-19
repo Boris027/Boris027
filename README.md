@@ -18,7 +18,9 @@ Welcome to my profile! I'm a self-taught developer passionate about technology, 
 <div style="display: flex; flex-wrap: wrap; width: 100%; justify-content: center; align-items: center;">
   <img src="https://skillicons.dev/icons?i=angular" width="58px" height="58px" />&nbsp;
   <img src="https://skillicons.dev/icons?i=react" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="58px" height="58px" />&nbsp;
   <img src="https://skillicons.dev/icons?i=rxjs" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" width="58px" height="58px" />&nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" width="58px" height="58px" />&nbsp;
   <img src="https://skillicons.dev/icons?i=html" width="58px" height="58px" />&nbsp;
   <img src="https://skillicons.dev/icons?i=css" width="58px" height="58px" />&nbsp;
@@ -32,6 +34,7 @@ Welcome to my profile! I'm a self-taught developer passionate about technology, 
   <img src="https://skillicons.dev/icons?i=flask" width="58px" height="58px" />&nbsp;
   <img src="https://skillicons.dev/icons?i=androidstudio" width="58px" height="58px"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" width="58px" height="58px" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" width="58px" height="58px" />&nbsp;
   <img src="https://skillicons.dev/icons?i=firebase"width="58px" height="58px" />&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" width="58px" height="58px" />&nbsp;
   <img src="https://skillicons.dev/icons?i=git" width="58px" height="58px" />&nbsp;
