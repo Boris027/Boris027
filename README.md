@@ -65,7 +65,7 @@ Welcome to my profile! I'm a self-taught developer passionate about technology, 
 
 ### 💻 Projects
 
-#### 🌎 WorldCast (Web / Next.js)
+#### 🌎 WorldCast (Next.js / React)
 
 A free app to listen to radio, watch TV, and read news from all around the world, bringing global media to your fingertips.
 
