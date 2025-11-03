@@ -114,6 +114,18 @@ An Android app for tracking and analyzing cryptocurrencies, with real-time visua
 
 #
 
+#### 🚀 YT-PLAYLIST-ENHANCED
+
+A Chrome extension to supercharge your YouTube playlist management — reverse, import, export, and organize playlists effortlessly.
+
+<p style="display:flex; gap:8px;">
+  <a href="https://github.com/Boris027/YT-PLAYLIST-ENHANCED" target="_blank">
+      <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+#
+
 #### 🍪 Cookie Editor Plus
 An open-source cookie editor with a simple interface and advanced features.
 
