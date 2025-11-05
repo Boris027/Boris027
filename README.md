@@ -1,6 +1,13 @@
-# 👋 Hi! I'm Boris
+<!-- Hero Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Hi%20There%20👋%20I'm%20Boris%20Gallego&fontSize=35&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20|%20Front-End%20Developer%20|%20Back-End%20Developer&descAlignY=55&descAlign=50" />
+</div>
 
-Welcome to my profile! I'm a self-taught developer passionate about technology, continuous learning, and building useful and creative projects.
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=💡+Learning+Every+Day+%7C+Building+Cool+Stuff;🌐+Let's+Build+the+Future+Together!" alt="Typing SVG" />
+</div>
+
 
 ---
 
