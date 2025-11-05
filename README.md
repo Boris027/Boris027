@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Hi%20There%20👋%20I'm%20Boris%20Gallego&fontSize=35&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20|%20Front-End%20Developer%20|%20Back-End%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Hi%20There%20👋%20I'm%20Boris%20Gallego&fontSize=35&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20|%20Front-End%20Developer%20|%20Back-End%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
 <!-- Typing Animation -->
