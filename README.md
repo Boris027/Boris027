@@ -13,10 +13,10 @@
 
 ### 🚀 About Me
 
-- 😎 My name is **Boris**
-- 📚 Currently **self-learning** web and software development
-- 💡 I love building tools that solve real-world problems
-- 🛠️ Constantly evolving and open to collaborating on interesting projects
+- 💼 I’m a Software Engineer with professional experience in both frontend and backend development
+- 💡 I love designing and building tools that solve real-world problems
+- 🛠️ Skilled in modern technologies, frameworks, and best development practices
+- 🚀 Continuously learning, evolving, and open to collaborating on innovative projects
 
 ---
 
